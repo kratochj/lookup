@@ -12,5 +12,6 @@
     <modules>
         <module>lookup-server</module>
         <module>lookup-parent</module>
+        <module>lookup-client</module>
     </modules>
 </project>

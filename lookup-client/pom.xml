@@ -4,7 +4,7 @@
     <artifactId>lookup-client</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>lookup</name>
+    <name>lookup java client</name>
     <url>http://maven.apache.org</url>
 
 

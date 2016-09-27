@@ -16,6 +16,9 @@ public class LogResponse {
 	// You can use this later to look up the occurrence by UUID.
 	String uuid;
 
+	public LogResponse() {
+	}
+
 	public LogResponse(String uuid) {
 		this.err = 0;
 		this.uuid = uuid;
